@@ -1,0 +1,13 @@
+.ondertitel{
+    border-bottom:5px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
+body { 
+    font-family: "raleway";
+}
+
+ul {
+    list-style-type:none;
+}
