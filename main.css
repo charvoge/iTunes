@@ -6,6 +6,7 @@
 
 body { 
     font-family: "raleway";
+    background-color: lightgrey;
 }
 
 ul {
@@ -19,3 +20,4 @@ a:visited{
 a:hover{
     text-decoration: none;
 }
+
